@@ -1,5 +1,5 @@
 # Coding_world
-
+➡️#👉 MY FIRST PROJECT 👈#⬅️
 
 #Basic calculator :
 
@@ -15,4 +15,25 @@ print("division:" , a/b)
 print("a to the power:" , a**0.5)
 
 # this my first project as a coder:
+
+
+
+➡️#👉 MY SECOND PROJECT 👈#⬅️
+
+
+# I made a program that can perform table:
+# write table of n using while and for looos:
+
+#first we write program using while loop , we will make table of n using while loop:
+    
+#first of all we take input from the user:
+    
+i = 1
+n = int(input("enter num:" ))
+
+while i <= 10:
+    print(i*n)
+    i+=1
+    
+# this code give us to table of n:
     
