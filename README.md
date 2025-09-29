@@ -36,4 +36,26 @@ while i <= 10:
     i+=1
     
 # this code give us to table of n:
+
+
+
+
+👉#➡️ MY THIRD PROJECT ⬅️#👈
+
+
+
+# I made a program that can perform table:
+# write table of n using for and for loops:
+
+#second we write program using for loop , we will make table of n using for loop:
+    
+#first of all we take input from the user:
+    
+n = int(input("entered num:" ))
+
+for i in range(1,11):
+    
+    print(i*n)
+    
+# this code give us to table of n:
     
