@@ -22,9 +22,9 @@ print("a to the power:" , a**0.5)
 
 
 # I made a program that can perform table:
-# write table of n using while and for looos:
+# write table of (n)using [while and for loops]:
 
-#first we write program using while loop , we will make table of n using while loop:
+#first we write program using (while loop) , we will make table of n using (while loop):
     
 #first of all we take input from the user:
     
@@ -45,9 +45,9 @@ while i <= 10:
 
 
 # I made a program that can perform table:
-# write table of n using for and for loops:
+# write table of (n) using (for loops):
 
-#second we write program using for loop , we will make table of n using for loop:
+#second we write program using (for loop) , we will make table of (n) using (for loop):
     
 #first of all we take input from the user:
     
