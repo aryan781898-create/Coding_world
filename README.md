@@ -14,7 +14,7 @@ print("multiplication:" , a*b)
 print("division:" , a/b)
 print("a to the power:" , a**0.5)
 
-# this my first project as a coder:
+# this my first project as a begginer:
 
 
 
