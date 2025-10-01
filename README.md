@@ -58,4 +58,25 @@ for i in range(1,11):
     print(i*n)
     
 # this code give us to table of n:
+
+
+
+
+
+👉#➡️ MY FOURTH PROJECT ⬅️ #👈
+
+
+#this is program that can perform sum of (n) number:
+    
+#while loop:
+    
+n = int(input("enter num:" ))
+i = 0
+total = 0
+while i <= n:
+     total+=i
+     i+=1
+print("sum:" , total)
+
+#this program give us sum of input numbers:
     
