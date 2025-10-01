@@ -78,5 +78,5 @@ while i <= n:
      i+=1
 print("sum:" , total)
 
-#this program give us sum of input numbers:
+
     
