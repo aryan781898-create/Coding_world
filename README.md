@@ -84,8 +84,7 @@ print("sum:" , total)
 
 
 
-
-
+#SHORT VERSION:
 
 👉# THIS IS MY SECOND AND THIRD CODE BUT MODIFIED VERSION:#👈
 
