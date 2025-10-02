@@ -83,7 +83,7 @@ print("sum:" , total)
 
 👉# THIS IS MY SECOND AND THIRD CODE BUT MODIFIED VERSION:
 
-#we make a table of n :
+#we make a table of n:
 
 #using while loop:
     
