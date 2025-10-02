@@ -81,7 +81,13 @@ print("sum:" , total)
 #this program give us sum of input numbers:
 
 
-👉# THIS IS MY SECOND AND THIRD CODE BUT MODIFIED VERSION:
+
+
+
+
+
+
+👉# THIS IS MY SECOND AND THIRD CODE BUT MODIFIED VERSION:#👈
 
 #we make a table of n:
 
