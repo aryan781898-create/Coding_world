@@ -79,4 +79,27 @@ while i <= n:
 print("sum:" , total)
 
 #this program give us sum of input numbers:
+
+
+👉# THIS IS MY SECOND AND THIRD CODE BUT MODIFIED VERSION:
+
+#we make a table of n :
+
+#using while loop:
+    
+n = int(input("enter num:"))
+    
+
+i = 0
+while i<10:
+    i+=1
+    print(f"{n} × {i} = {n*i}")
+    
+#next we do same thing using for loop:
+ 
+n = int(input("enter num:"))
+
+i=0
+for i in range(1,11):
+    print(f"{n} × {i} = {n*i}")
     
