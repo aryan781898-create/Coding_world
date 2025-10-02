@@ -28,7 +28,7 @@ print("a to the power:" , a**0.5)
     
 #first of all we take input from the user:
     
-i = 1
+i = 0
 n = int(input("enter num:" ))
 
 while i <= 10:
